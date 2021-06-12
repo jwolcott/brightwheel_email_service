@@ -1,0 +1,3 @@
+defaultProvider: spendgrid
+spendgridApiKey: fake_api_key
+snailgunApiKey: fake_api_key
